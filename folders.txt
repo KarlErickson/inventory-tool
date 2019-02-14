@@ -1,4 +1,7 @@
-AzureDocs d:\g\azure-docs-pr\articles
-VSDocs d:\g\visualstudio-docs-pr\docs
-VSCodeDocs d:\g\vscode-docs\docs
-AzureDevOpsDocs d:\g\vsts-docs-public\docs
+AzureDocsArticles d:\inv\azure-docs-pr\articles
+AzureDocsIncludes d:\inv\azure-docs-pr\includes
+AzureJavaDocs d:\inv\azure-docs-sdk-java\docs-ref-conceptual
+AzureNodeDocs d:\inv\azure-docs-sdk-node\docs-ref-conceptual
+AzurePythonDocs d:\inv\azure-docs-sdk-python\docs-ref-conceptual
+VSDocs d:\inv\visualstudio-docs-pr
+DevOpsDocs d:\inv\vsts-docs-pr\docs
