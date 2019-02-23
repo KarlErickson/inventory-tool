@@ -1,40 +1,40 @@
-Java[^S]
-DevOps
-Azure DevOps
-service endpoint
-Azure DevOps Services
-Repos
-CI/CD
-TFS
-continous deployment
-continuous integration
-work items
-VSTS
-Azure Pipelines
-Azure DevOps Services organization
-agile
-the Azure DevOps Project
-continuous delivery
-Azure Repos
-Team Services
-release definition
-Azure DevOps project
-Team Foundation Server
-Azure DevOps Git
-Visual Studio Team Services
-Azure DevOps organization
-build definition
-Visual Studio Online
-Team Explorer
-Visual Studio Marketplace
-team project
-Release Management
-Azure DevOps Services project
-sprint plan
-private agent
-VSO
-VSTS account
-Azure DevOps Marketplace
-VSTS Git
-Boards
-VSTS project
+R Java[^Ss]
+L DevOps
+L Azure DevOps
+L service endpoint
+L Azure DevOps Services
+L Repos
+L CI/CD
+L TFS
+L continous deployment
+L continuous integration
+L work items
+L VSTS
+L Azure Pipelines
+L Azure DevOps Services organization
+L agile
+L the Azure DevOps Project
+L continuous delivery
+L Azure Repos
+L Team Services
+L release definition
+L Azure DevOps project
+L Team Foundation Server
+L Azure DevOps Git
+L Visual Studio Team Services
+L Azure DevOps organization
+L build definition
+L Visual Studio Online
+L Team Explorer
+L Visual Studio Marketplace
+L team project
+L Release Management
+L Azure DevOps Services project
+L sprint plan
+L private agent
+L VSO
+L VSTS account
+L Azure DevOps Marketplace
+L VSTS Git
+L Boards
+L VSTS project
