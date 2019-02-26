@@ -14,3 +14,4 @@ cd d:\inv\vsts-docs-pr
 git pull origin master
 popd
 python take-inventory.py
+move *.csv \InventoryData
