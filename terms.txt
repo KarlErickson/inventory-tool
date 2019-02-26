@@ -1,4 +1,4 @@
-R Java[^Ss]
+R Java[^S]
 L DevOps
 L Azure DevOps
 L service endpoint
