@@ -4,4 +4,4 @@ AzureJavaDocs       d:\inv\azure-docs-sdk-java\docs-ref-conceptual     https://d
 AzureNodeDocs       d:\inv\azure-docs-sdk-node\docs-ref-conceptual     https://docs.microsoft.com/javascript/azure
 AzurePythonDocs     d:\inv\azure-docs-sdk-python\docs-ref-conceptual   https://docs.microsoft.com/python/azure
 VSDocs              d:\inv\visualstudio-docs-pr                        https://docs.microsoft.com/visualstudio
-DevOpsDocs          d:\inv\vsts-docs-pr\docs                           https://docs.microsoft.com/azure/devops
+AzureDevOpsDocs     d:\inv\vsts-docs-pr\docs                           https://docs.microsoft.com/azure/devops
