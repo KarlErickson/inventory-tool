@@ -1,7 +1,7 @@
-AzureDocsArticles   d:\inv\azure-docs-pr\articles                      https://docs.microsoft.com/azure
-AzureDocsIncludes   d:\inv\azure-docs-pr\includes                      https://docs.microsoft.com/azure
-AzureJavaDocs       d:\inv\azure-docs-sdk-java\docs-ref-conceptual     https://docs.microsoft.com/java/azure
-AzureNodeDocs       d:\inv\azure-docs-sdk-node\docs-ref-conceptual     https://docs.microsoft.com/javascript/azure
-AzurePythonDocs     d:\inv\azure-docs-sdk-python\docs-ref-conceptual   https://docs.microsoft.com/python/azure
-VSDocs              d:\inv\visualstudio-docs-pr                        https://docs.microsoft.com/visualstudio
-AzureDevOpsDocs     d:\inv\vsts-docs-pr\docs                           https://docs.microsoft.com/azure/devops
+AzureDocsArticles   c:\repos\azure-docs-pr\articles                      https://docs.microsoft.com/azure
+AzureDocsIncludes   c:\repos\azure-docs-pr\includes                      https://docs.microsoft.com/azure
+AzureJavaDocs       c:\repos\azure-docs-sdk-java\docs-ref-conceptual     https://docs.microsoft.com/java/azure
+AzureNodeDocs       c:\repos\azure-docs-sdk-node\docs-ref-conceptual     https://docs.microsoft.com/javascript/azure
+AzurePythonDocs     c:\repos\azure-docs-sdk-python\docs-ref-conceptual   https://docs.microsoft.com/python/azure
+VSDocs              c:\repos\visualstudio-docs-pr                        https://docs.microsoft.com/visualstudio
+AzureDevOpsDocs     c:\repos\vsts-docs-pr\docs                           https://docs.microsoft.com/azure/devops
