@@ -1,4 +1,7 @@
 R Java[^S]
+L JavaScript
+L Node.js
+L NPM
 L DevOps
 L Azure DevOps
 L service endpoint
